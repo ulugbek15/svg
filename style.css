@@ -1,0 +1,9 @@
+.coffee{
+    fill: skyblue;
+}
+.coffee:hover{
+    fill: gold;
+}
+.bar{
+    color: gold;
+}
